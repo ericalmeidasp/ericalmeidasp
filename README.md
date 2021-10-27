@@ -5,10 +5,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericalmeidasp&layout=compact&theme=radical)](https://github.com/ericalmeidasp/github-readme-stats)
 ##
 <a href="https://github.com/ericalmeidasp/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ericalmeidasp&repo=github-readme-stats" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ericalmeidasp&show_icons=true&theme=radical" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ericalmeidasp&repo=convoychat" />
+<a href="https://github.com/ericalmeidasp/github-readme-stats">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericalmeidasp&layout=compact&theme=radical" />
 </a>
 
 
