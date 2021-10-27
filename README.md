@@ -24,7 +24,9 @@
   <img align="center" alt="Eric-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></a>
   <a href="https://github.com/ericalmeidasp">
   <img align="center" alt="Eric-Mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"></a>
-  </a>
+  <a href="https://github.com/ericalmeidasp">
+  <img align="center" alt="Eric-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></a>
+</div>
   
   ##
  
