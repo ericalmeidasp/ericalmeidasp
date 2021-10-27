@@ -1,4 +1,9 @@
-### Hi there 👋
+### Opa, sou o Éric. Aspira a dev. 👋
+##
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericalmeidasp)](https://github.com/ericalmeidasp/github-readme-stats)
+
+
 
 <!--
 **ericalmeidasp/ericalmeidasp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
