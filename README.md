@@ -19,6 +19,8 @@
   <a href="https://github.com/ericalmeidasp">
   <img align="center" alt="Eric-Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"></a>
   <a href="https://github.com/ericalmeidasp">
+  <img align="center" alt="Eric-Nuxt" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg"></a>
+  <a href="https://github.com/ericalmeidasp">
   <img align="center" alt="Eric-Adonis" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/adonisjs/adonisjs-original.svg"></a>
   <a href="https://github.com/ericalmeidasp">
   <img align="center" alt="Eric-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></a>
