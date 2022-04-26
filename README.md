@@ -1,5 +1,5 @@
 ### Opa, sou o Éric. Aspira a dev. 👋
-### Estou estudando no momento: Typescript, Node.js, AdonisJS, MySQL, MongoDB, VueJS, NuxtJS.
+#### Estou estudando no momento: Typescript, Node.js, AdonisJS, MySQL, MongoDB, VueJS, NuxtJS.
 
 <div align="center">
   <a href="https://github.com/ericalmeidasp">
