@@ -1,5 +1,6 @@
-### Opa, sou o Éric. Aspira a dev. 👋
-#### Estou estudando no momento: Typescript, Node.js, AdonisJS, MySQL, MongoDB, VueJS, NuxtJS.
+### Opa, sou o Éric. FullStack Dev. 👋
+#### Habilidades: Typescript, Node.js, AdonisJS, MySQL, MongoDB, VueJS, NuxtJS.
+#### Foco em BackEnd (NodeJS) - API Rest
 
 <div align="center">
   <a href="https://github.com/ericalmeidasp">
