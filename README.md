@@ -1,6 +1,10 @@
-### Opa, sou o Éric. FullStack Dev. 👋
+### Opa, sou o Éric. PM e Developer. 👋
+
+#### Conhecimento de BDD, User Stories, Product Backlog, Roadmap, Sprints, Gestão de Equipes, Gerenciamento de Riscos. etc.
+
 #### Habilidades: Typescript, Node.js, AdonisJS, MySQL, MongoDB, VueJS, NuxtJS.
 #### Foco em BackEnd (NodeJS) - API Rest
+
 
 <div align="center">
   <a href="https://github.com/ericalmeidasp">
