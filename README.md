@@ -1,4 +1,4 @@
-### Opa, sou o Éric. PM e Developer. 👋
+### Opa, sou o Éric. Backend Developer e PO. 👋
 
 #### Conhecimento de BDD, User Stories, Product Backlog, Roadmap, Sprints, Gestão de Equipes, Gerenciamento de Riscos. etc.
 
