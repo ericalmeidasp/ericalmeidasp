@@ -1,6 +1,4 @@
-### Opa, sou o Éric. Backend Developer e PO. 👋
-
-#### Conhecimento de BDD, User Stories, Product Backlog, Roadmap, Sprints, Gestão de Equipes, Gerenciamento de Riscos. etc.
+### Opa, sou o Éric. Backend Developer. 👋
 
 #### Habilidades: Typescript, Node.js, AdonisJS, MySQL, MongoDB, VueJS, NuxtJS.
 #### Foco em BackEnd (NodeJS) - API Rest
