@@ -1,7 +1,7 @@
 ### Opa, sou o Éric. Backend Developer. 👋
 
 #### Habilidades: Typescript, Java, SpringBoot, Node.js, AdonisJS, MySQL, VueJS, NuxtJS.
-#### Foco em BackEnd (NodeJS) - API Rest
+#### BackEnd
 
 
 <div align="center">
