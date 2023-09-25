@@ -1,6 +1,6 @@
 ### Opa, sou o Éric. Backend Developer. 👋
 
-#### Habilidades: Java, SpringBoot, AWS Cloud, Typescript, Node.JS, SQl/NoSQL, DynamoDB, VueJS, NuxtJS.
+#### Habilidades: Java, SpringBoot, AWS Cloud, Typescript, Node.JS, SQl/NoSQL, DynamoDB, e um pouquinho de Angular.
 #### BackEnd
 
 
