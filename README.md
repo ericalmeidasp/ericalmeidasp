@@ -3,7 +3,6 @@
 #### Habilidades: Java, SpringBoot, AWS Cloud, Typescript, Node.JS, SQl/NoSQL, DynamoDB, e um pouquinho de Angular.
 #### BackEnd
 
-
 <div align="center">
   <a href="https://github.com/ericalmeidasp">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ericalmeidasp&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/></a>
