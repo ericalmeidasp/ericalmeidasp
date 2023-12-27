@@ -1,7 +1,6 @@
 ### Opa, sou o Éric. Backend Developer. 👋
 
-#### Habilidades: Java, SpringBoot, AWS Cloud, Kafka, Messageria, Containers, SQL/NoSQL, DynamoDB, e um pouquinho de Angular, Typescript e Node.JS.
-#### BackEnd
+#### Habilidades: Java, Spring, AWS Cloud, Messageria(Kafka, SQS, RabbitMQ), Containers (Docker, ECS), SQL/NoSQL(MySQL, PostgreSQL, DynamoDB), e um pouquinho de Angular, Typescript e Node.JS.
 
 <div align="center">
   <a href="https://github.com/ericalmeidasp">
@@ -11,15 +10,23 @@
 </div>
 <div style="display: inline_block" align="center"><br>
   <a href="https://github.com/ericalmeidasp">
-  <img align="center" alt="Eric-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></a>
+  <a href="https://github.com/ericalmeidasp">
+  <img align="center" alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"></a>
+  <a href="https://github.com/ericalmeidasp">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
   <a href="https://github.com/ericalmeidasp">
   <img align="center" alt="Eric-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></a>
+  <a href="https://github.com/ericalmeidasp">
+  <img align="center" alt="Eric-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
   <a href="https://github.com/ericalmeidasp">
   <img align="center" alt="Eric-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
   <a href="https://github.com/ericalmeidasp">
   <img align="center" alt="Eric-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
   <a href="https://github.com/ericalmeidasp">
   <img align="center" alt="Eric-Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"></a>
+  <a href="https://github.com/ericalmeidasp">
+  <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"></a>
   <a href="https://github.com/ericalmeidasp">
   <img align="center" alt="Eric-Nuxt" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg"></a>
   <a href="https://github.com/ericalmeidasp">
